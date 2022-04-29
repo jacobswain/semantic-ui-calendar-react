@@ -39,11 +39,6 @@
     "url": "https://github.com/arfedulov/semantic-ui-calendar-react.git"
   },
   "license": "MIT",
-  "peerDependencies": {
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
-    "semantic-ui-react": ">=0.84.0"
-  },
   "devDependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
